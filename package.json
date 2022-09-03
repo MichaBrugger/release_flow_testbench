@@ -1,6 +1,11 @@
 {
   "name": "testbench",
   "version": "0.0.2",
+
+  "release": {
+    "branches": ["master", "next"]
+  },
+
   "devDependencies": {
     "@semantic-release/github": "^8.0.6"
   }
